@@ -1,0 +1,11 @@
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\bin\Release\NotificationBarControl.dll
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\bin\Release\NotificationBarControl.pdb
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\bin\Release\NotificationBarControl.xml
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.vbprojAssemblyReference.cache
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.Resources.resources
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.NotificationBar.resources
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.vbproj.GenerateResource.cache
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.vbproj.CoreCompileInputs.cache
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.dll
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.xml
+C:\Users\mbalt\Desktop\Visual Studio 2005\NotificationBar\NotificationBarControl\NotificationBarControl\obj\Release\NotificationBarControl.pdb
